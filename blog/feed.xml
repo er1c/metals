@@ -4,7 +4,7 @@
         <title>Metals Blog</title>
         <link>http://scalameta.org/metals/blog</link>
         <description>The best place to stay up-to-date with the latest Metals news and events.</description>
-        <lastBuildDate>Thu, 24 Jan 2019 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Feb 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,17 @@
             <link>http://scalameta.org/metals/blog</link>
         </image>
         <copyright>Copyright © 2019 Metals</copyright>
+        <item>
+            <title><![CDATA[Metals v0.4.1]]></title>
+            <link>http://scalameta.org/metals/blog/2019/02/01/tin.html</link>
+            <guid>http://scalameta.org/metals/blog/2019/02/01/tin.html</guid>
+            <pubDate>Fri, 01 Feb 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Metals is a language server for Scala that works with VS Code, Atom, Vim,
+Sublime Text and Emacs. Metals is developed at the
+<a href="https://scala.epfl.ch/">Scala Center</a> along with contributors from the
+community.</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[Metals v0.4.0]]></title>
             <link>http://scalameta.org/metals/blog/2019/01/24/tin.html</link>
